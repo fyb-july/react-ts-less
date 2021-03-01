@@ -6,3 +6,5 @@
 
 # 导入路由系统 在routes里面配置，在App.tsx挂载
 ### 使用BrowserRouter有效避免#值
+#  修改配置成自己想要的类名
+### less-loader的module配置和css的一样，再去node-module里面找react—nav-ntils里面的getCssModuleLocalldent里面修改自己想要的类名

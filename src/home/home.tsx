@@ -3,7 +3,7 @@ import styles from "./home.module.less"
 const Home =()=>{
     return (
         <div className={styles.fangHome}>
-                hahah 
+                方一波
         </div>
     )
 }

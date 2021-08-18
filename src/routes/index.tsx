@@ -1,6 +1,6 @@
 import PrivateRoute from './privateRoutes';
-import Home from '../home/home';
-import Braft from "../Braft/Braft"
+import Home from '../home';
+import Braft from "../braft/Braft"
 
 const routes = [
   {

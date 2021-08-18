@@ -1,9 +1,9 @@
-import styles from "./home.module.less"
+import styles from "./index.module.less"
 
 const Home =()=>{
     return (
         <div className={styles.fangHome}>
-                方一波
+                home
         </div>
     )
 }

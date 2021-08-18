@@ -3,8 +3,8 @@ import { BrowserRouter, Switch } from 'react-router-dom';
 import {PrivateRoute} from "./routes/index"
 
 import Home from "./home"
-import Header from "./components1/Header"
-import Braft from "./braft1/Braft"
+import Header from "./components/Header"
+import Braft from "./braft/Braft"
 function App() {
   return (
     <BrowserRouter>

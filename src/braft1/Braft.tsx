@@ -2,8 +2,7 @@ import styles from "./Braft.module.less"
 import 'braft-editor/dist/index.css'
 import  { useState } from 'react'
 import BraftEditor from 'braft-editor'
-// import { Input } from 'antd';
-// const { TextArea } = Input;
+
 const Braft =()=>{
     const [editorState,setEditorState]=useState<any>(BraftEditor.createEditorState(null))
         const handleChange=(editorState:any)=>{
